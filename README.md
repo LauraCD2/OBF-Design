@@ -8,7 +8,7 @@ A powerful deep learning framework for **learnable Optical Bandpass Filter Desig
 
 ## 🎨 Core Innovation
 
-**FilterDesign** is the ⭐ **core** ⭐ of this repository!  
+**FilterDesign** is the ⭐ **core** ⭐ of this work!  
 It learns Gaussian optical filters that reduce spectral dimensionality while preserving the most discriminative features 🌟
 
 🔬 **Technical approach:**
