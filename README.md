@@ -58,6 +58,21 @@ python run.py  # Tests 3, 6, 11 filters automatically
 - 🔧 **Modularity**: Compatible with diverse neural architectures  
 - 📈 **Validated**: Demonstrated superiority over state-of-the-art band selection methods  
 
+## ⭐ Citation
+If you find the OBF-Design useful in your research, please consider citing:
+
+```
+@INPROCEEDINGS{11156301,
+  author={Diaz-Delgado, Laura C. and Monroy, Brayan and Bacca, Jorge and Arguello, Henry},
+  booktitle={2025 XXV Symposium of Image, Signal Processing, and Artificial Vision (STSIVA)}, 
+  title={Deep Gaussian Optical Bandpass Filter Design for Fermentation Index Estimation in Cocoa Beans}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Optical filters;Filters;Biomedical optical imaging;Optical design;Estimation;Optical computing;Optical imaging;Fermentation;Optical sensors;Optical signal processing;fermentation;cocoa;deep learning;spectral imaging;filter design},
+  doi={10.1109/STSIVA66383.2025.11156301}}
+```
 
 *Bringing the magic of learnable optics to spectral analysis* 💖  
 ---
