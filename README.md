@@ -61,7 +61,7 @@ python run.py  # Tests 3, 6, 11 filters automatically
 ## ⭐ Citation
 If you find the OBF-Design useful in your research, please consider citing:
 
-```
+```bibtex
 @INPROCEEDINGS{11156301,
   author={Diaz-Delgado, Laura C. and Monroy, Brayan and Bacca, Jorge and Arguello, Henry},
   booktitle={2025 XXV Symposium of Image, Signal Processing, and Artificial Vision (STSIVA)}, 
